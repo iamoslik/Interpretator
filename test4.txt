@@ -1,5 +1,0 @@
-program
-{
-	int a = 2, b = 3;
-	write (5 * (a + b));
-}
