@@ -1,0 +1,9 @@
+program
+{
+	boolean a = true, b = false;
+	int c = 9, d = 0;
+	do {write("a");} while (a != b);
+	write (c + d);
+	if (a == b) {read(c);} else {read(d);}
+	while (a and b) {write("ab");}
+}
